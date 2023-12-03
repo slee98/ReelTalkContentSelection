@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Illustration - Business, Support, design, communication _ customer service, laptop, computer, messages, woman1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Illustration - Business, Support, design, communication _ customer service, laptop, computer, messages, woman2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Illustration - Business, Support, design, communication _ customer service, laptop, computer, messages, woman3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

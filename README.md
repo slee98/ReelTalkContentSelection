@@ -4,7 +4,7 @@
 
 <img width="707" alt="Screenshot 2023-12-02 at 11 34 47 PM" src="https://github.com/slee98/ReelTalkContentSelection/assets/74482315/4c28524a-1f0f-4a9f-a47c-4900bc3ba7c2">
 
-This app is designed to browse contents(movies, tvshows) using the provided API. 
+This app is purposefully crafted for content exploration, offering users seamless access to a diverse range of movies and TV shows through the provided API.
 
 ## Features
 

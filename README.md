@@ -1,14 +1,14 @@
 # ReelTalkContentSelection
 
 ## Demo
+![Screenshot 2024-07-22 at 9 05 18 PM](https://github.com/user-attachments/assets/cec37e62-26f0-4e32-8ab2-adaa1568a3ca)
 
-<img width="707" alt="Screenshot 2023-12-02 at 11 34 47 PM" src="https://github.com/slee98/ReelTalkContentSelection/assets/74482315/4c28524a-1f0f-4a9f-a47c-4900bc3ba7c2">
 
 This app is purposefully crafted for content exploration, offering users access to a diverse range of movies and TV shows through the provided API.
 
 ## Features
 
-- 👋 **Welcome Page**
+- 👋 **Welcome/Login Page**
   - Enables users to experience a welcoming introduction upon launching the app.
     
 - 📄 **Genre Selection**
@@ -22,4 +22,4 @@ This app is purposefully crafted for content exploration, offering users access 
 
 ---
 
-This project showcases my iOS development skills and demonstrates my ability to create user-friendly and visually appealing applications. 
+This project is a preview of the ReelTalk app, and our team are still working towards the app's release.
